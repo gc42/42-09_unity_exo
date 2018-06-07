@@ -1,7 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRollerBall", "Assembly-CSharp.csproj", "{3621E4D7-4683-9C91-2B94-CD20B7D12819}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3621E4D7-4683-9C91-2B94-CD20B7D12819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{3D138A85-ABB8-165D-D768-7F565EA5631A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{6CEEFB2A-1586-7FE7-E722-629D43A661C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,14 @@ Global
 		{3621E4D7-4683-9C91-2B94-CD20B7D12819}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3621E4D7-4683-9C91-2B94-CD20B7D12819}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3621E4D7-4683-9C91-2B94-CD20B7D12819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D138A85-ABB8-165D-D768-7F565EA5631A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D138A85-ABB8-165D-D768-7F565EA5631A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D138A85-ABB8-165D-D768-7F565EA5631A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D138A85-ABB8-165D-D768-7F565EA5631A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEEFB2A-1586-7FE7-E722-629D43A661C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEEFB2A-1586-7FE7-E722-629D43A661C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEEFB2A-1586-7FE7-E722-629D43A661C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEEFB2A-1586-7FE7-E722-629D43A661C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
